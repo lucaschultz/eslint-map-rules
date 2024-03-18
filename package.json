@@ -1,7 +1,7 @@
 {
   "name": "@lucaschultz/eslint-map-rules",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Map eslint rules to your desired severity",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
